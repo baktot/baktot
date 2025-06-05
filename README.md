@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @baktot
--  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68416b82a7a6cad70767f20f?variant=dark" alt="roadmap.sh"/></a>
+- 👋 Hi, I’m @baktot  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68416b82a7a6cad70767f20f?variant=dark" alt="roadmap.sh"/></a>
 
 <!---
 baktot/baktot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
